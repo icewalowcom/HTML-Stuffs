@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+<p>Hey! It looks like a paragraph, but there is a block/box here too. Find that HTML element other than p and h </p> 
+       
+<a href="https://www.google.com/">This is a link to google</a>
+ 
+</br>
+
+<img src="trash.jpg" alt="Trash" width="100" height="133">
+<p><i>Email me by clicking on <a href="">Jon Doe</a></br>visit us at:</br><a href="">Disney World</a></br>Box 678, Disneyland</br>USA</i></p>
+
+<h2>Bonus! Create a Table</h>
+<font color="black">
+<table bgcolor="aqua" border="2px" >  
+
+    <tr><th>_(:з」∠)_</th><th>width</th><th>boarder</th><th>bgcolor</th></tr>
+ 
+    <tr bgcolor="orange"><th>Value 1</th><th>="100"</th><th>="2"</th><th>="yellow"</th></tr>
+    <tr bgcolor="orange"><th>Value 1</th><th><i>="italic"</th><th><i>="2" or "2px"</i></th><th>="lightpink"</th></tr>
+</table>
+
+ 
+</body>
+</html>
